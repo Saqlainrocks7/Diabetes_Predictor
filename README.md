@@ -1,9 +1,9 @@
 # Diabetes Prediction
 ## Table of Contents
-*Demo
-*Overview
-*Motivation
-*Installation
-*Deployement on Heroku
+1. Demo
+2. Overview
+3. Motivation
+4. Installation
+5. Deployement on Heroku
 ## Demo
 Link: https://mldiabetesprediction.herokuapp.com/
