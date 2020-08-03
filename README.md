@@ -8,6 +8,7 @@
 ## Demo
 Link: https://mldiabetesprediction.herokuapp.com/
 ![Screenshot (46)](https://user-images.githubusercontent.com/48888895/89192905-d6a91b80-d5c2-11ea-8578-eaa29f4462b6.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/48888895/89202263-4ffb3b00-d5d0-11ea-807b-20bd84f69f40.png)
 ## Overview
 This is a simple Flask web app which predicts whether a patient is having diabetes or not.
 ## Motivation
