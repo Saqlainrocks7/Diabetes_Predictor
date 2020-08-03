@@ -11,10 +11,11 @@ Link: https://mldiabetesprediction.herokuapp.com/
 ## Overview
 This is a simple Flask web app which predicts whether a patient is having diabetes or not.
 ## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
+I started to learn Machine Learning model to get most out of it. I always wanted to make an end-to-end project and deploy it to a platform such as heroku.This was my first deployment of a web app on heroku but certainly not the last.
 ## Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
 pip install -r requirements.txt
 ## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+Login or signup in order to create virtual app. You can either connect your github profile or download manually to deploy this project.
+![Screenshot (47)](https://user-images.githubusercontent.com/48888895/89193225-50410980-d5c3-11ea-83ea-ccef42789f63.png)
