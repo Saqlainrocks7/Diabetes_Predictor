@@ -16,7 +16,7 @@ I started to learn Machine Learning model to get most out of it. I always wanted
 ## Installation
 The Code is written in Python 3.6.10. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 ## Deployement on Heroku
 Login or signup in order to create virtual app. You can either connect your github profile or download manually to deploy this project.
 ![Screenshot (47)](https://user-images.githubusercontent.com/48888895/89193225-50410980-d5c3-11ea-83ea-ccef42789f63.png)
